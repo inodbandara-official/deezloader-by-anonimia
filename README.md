@@ -198,4 +198,4 @@ IF YOU WOULD LIKE TO DONATE, JUST PRESS [HERE](https://www.paypal.com/paypalme/a
 
 # FRIENDLY MESSAGE FROM ANONIMIA: HEY YOUUUU
 
-Too Lazy to finish the shitty documentation with VSCode you should be able discover the other params, methods and propieties I will try to do something more professional, MAYBE :)
+Too Lazy to finish the shitty documentation with VSCode you should be able discover the other params, methods and propieties I will try to do something more professional, MAYBE :) (not sure...)
